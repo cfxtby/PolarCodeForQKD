@@ -1,10 +1,10 @@
 # The construction of polar code by upgrading and degrading channels
 
-**From：**This algorithm is from the paper "How To Construct Polar Code", is construction of polar code by upgrading and degrading channels.
+**From:** This algorithm is from the paper "How To Construct Polar Code", is construction of polar code by upgrading and degrading channels.
 
-**Advantage: **I have implemented the algorithm with C++. It can be used with the frame length more than 1Mb. Meanwhile, the implementation supports to calculate the final value with multiple processes so as to save the calculation time. 
+**Advantage:** I have implemented the algorithm with C++. It can be used with the frame length more than 1Mb. Meanwhile, the implementation supports to calculate the final value with multiple processes so as to save the calculation time. 
 
-**Instructions: **
+**Instructions:**
 The code have several instructions:
 -N: the block length $$n$$ is $$n=2^N$$
 -mil: $$\mu$$
