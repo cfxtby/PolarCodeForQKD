@@ -13,4 +13,3 @@ The code have several instructions:
 -p: the error bits rate is $$0.01p$$ 
 
 **Output files:** 
-The output file contians two columns: the indexes of each channel and the estimated probability of error under maximum-likelihood decision.
